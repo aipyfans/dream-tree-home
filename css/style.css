@@ -634,8 +634,9 @@ a.icon-button.google-plus:hover .icon-google-plus:before{
     line-height: 1.8em;
 }
 .reservation{
-	width:70%;
+	width:35%;
 	margin:0 auto;
+    text-align: center;
 }
 .w3_book_date{
 	float:left;
@@ -665,23 +666,6 @@ a.icon-button.google-plus:hover .icon-google-plus:before{
 }
 select#country,select#country1{
     cursor: pointer;
-}
-.reservation input[type="submit"]{
-	outline: none;
-    border: 1px solid #fff;
-    background: rgba(0, 0, 0, 0.34);
-    color: #fff;
-    padding: 10px 0;
-    width: 34%;
-    font-size: 1em;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    margin: 4em 0 0 20em;
-}
-.reservation input[type="submit"]:hover{
-	background: #EEE048;
-    border: 1px solid #BDAF21;
-    color: #212121;
 }
 /*-- //team-bottom --*/
 /*-- gallery --*/
@@ -1134,7 +1118,8 @@ div#myTabContent {
 		font-size: 1.6em;
 	}
 	.reservation {
-		width: 85%;
+		width: 42.5%;
+        text-align: center;
 	}
 	.w3_book_date {
 		width: 32%;
@@ -1186,9 +1171,6 @@ div#myTabContent {
 	}
 	.view h5 {
 		margin: 1.7em 0 .5em;
-	}
-	.reservation input[type="submit"] {
-		margin: 3em 0 0 20em;
 	}
 	.team-bottom {
 		min-height: 420px;
@@ -1304,7 +1286,8 @@ div#myTabContent {
 		margin: 2em auto 3em;
 	}
 	.reservation {
-		width: 100%;
+		width: 50%;
+        text-align: center;
 	}
 	.team-bottom {
 		min-height: 390px;
@@ -1356,9 +1339,6 @@ div#myTabContent {
 		width: 15%;
 		left: 42.5%;
 	}
-	.reservation input[type="submit"] {
-		margin: 3em 0 0 18em;
-	}
 	.w3agile_gallery_grid figure {
 		height: 257px;
 	}
@@ -1408,9 +1388,6 @@ div#myTabContent {
 	}
 	.wthree_banner_bottom_right {
 		margin: 3em 0 3em;
-	}
-	.reservation input[type="submit"] {
-		margin: 2em 0 0 14em;
 	}
 	.w3agile_gallery_grid figure {
 		height: 213px;
@@ -1553,10 +1530,6 @@ div#myTabContent {
 	.w3_working_time:nth-child(2) {
 		margin: 1em 0;
 	}
-	.reservation input[type="submit"] {
-		margin: 2em 0 0 8em;
-		width: 50%;
-	}
 	.w3agile_gallery_grid {
 		float: none;
 		width: 100%;
@@ -1615,10 +1588,6 @@ div#myTabContent {
 	}
 	.banner-bottom-image-text-left h3, .team h3, .team-bottom h3, .gallery h3, .testimonials h3, .w3agile_contact_left h3, .agileits_about_grid_left h3 {
 		line-height: 1.5em;
-	}
-	.reservation input[type="submit"] {
-		margin: 1em 0 0;
-		width: 100%;
 	}
 	.gallery {
 		padding-left: 1em;
